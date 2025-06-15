@@ -1,0 +1,6 @@
+beautifulsoup4
+flask
+ollama
+requests
+selenium
+webdriver-manager
